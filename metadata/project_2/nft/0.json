@@ -1,0 +1,9 @@
+{
+  "auth_data": {
+    "platform_name": "dGhpcyBpcyB1c2VyIGlk"
+  },
+  "description": "ANFT for logging into [Platform]",
+  "external_url": "https://example.com/?token_id=0",
+  "image": "https://natt-bright.github.io/newcoolauth/pages/content_1.jpg",
+  "name": "ANFT [Platform]"
+}
