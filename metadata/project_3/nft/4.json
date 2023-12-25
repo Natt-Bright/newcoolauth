@@ -1,0 +1,16 @@
+{
+  "auth_data": {
+    "platform_name": "dGhpcyBpcyB1c2VyIGlk"
+  },
+  "name": "Лесной зелёный токен",
+  "description": "ANFT для авторизации на сайте %platform_name%",
+  "external_url": "https://example.com/?token_id=0",
+  "image": "https://natt-bright.github.io/newcoolauth/pages/newtocks/5.jpg",
+
+  "attributes": [
+    {
+      "trait_type": "VIP-сила",
+      "value": "12"
+    }
+  ]
+}
