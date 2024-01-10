@@ -2,7 +2,7 @@
   "auth_data": {
     "platform_name": "dGhpcyBpcyB1c2VyIGlk"
   },
-  "name": "Хвойно-синий токен",
+  "name": "Хвойно-синий токен (DEBUG)",
   "description": "ANFT для авторизации на сайте %platform_name%",
   "external_url": "https://example.com/?token_id=0",
   "image": "https://natt-bright.github.io/newcoolauth/pages/newtocks/3.jpg",
